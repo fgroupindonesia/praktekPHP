@@ -7,3 +7,4 @@
 #### Materi Dasar :
 - LatihanDatabase
 - LatihanLogika
+- LatihanSyntax
