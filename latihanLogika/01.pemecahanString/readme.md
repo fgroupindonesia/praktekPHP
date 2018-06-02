@@ -1,5 +1,5 @@
 
-# latihan Logika (PHP)
+# Latihan Logika (PHP)
 
 ## Pemecahan String.
 
