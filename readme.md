@@ -5,6 +5,6 @@
 ## cocok untuk developers yg baru memasuki dunia web.
 
 #### Materi Dasar :
-- LatihanDatabase
-- LatihanLogika
-- LatihanSyntax
+- 01.LatihanSyntax
+- 02.LatihanLogika
+- 03.LatihanDatabase
